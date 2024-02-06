@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOpKg8ZmIO2mMwBZizNQCGyCYOgoopfd+DV/IIbg3/Z4PY4wYSIUc88qRhK0yZAEO9c9eoNbIAvhDhQXL/ekrA==",
+  "success": true,
+  "projectFilePath": "/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/TicTacToeConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucabernardis/.nuget/packages/spectre.console/0.48.1-preview.0.20/spectre.console.0.48.1-preview.0.20.nupkg.sha512",
+    "/Users/lucabernardis/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

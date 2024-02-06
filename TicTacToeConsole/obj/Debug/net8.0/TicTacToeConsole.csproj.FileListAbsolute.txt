@@ -1,0 +1,17 @@
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/bin/Debug/net8.0/TicTacToeConsole
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/bin/Debug/net8.0/TicTacToeConsole.deps.json
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/bin/Debug/net8.0/TicTacToeConsole.runtimeconfig.json
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/bin/Debug/net8.0/TicTacToeConsole.dll
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/bin/Debug/net8.0/TicTacToeConsole.pdb
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/bin/Debug/net8.0/Spectre.Console.dll
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.csproj.AssemblyReference.cache
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.AssemblyInfoInputs.cache
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.AssemblyInfo.cs
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.csproj.CoreCompileInputs.cache
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.csproj.CopyComplete
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.dll
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/refint/TicTacToeConsole.dll
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.pdb
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/TicTacToeConsole.genruntimeconfig.cache
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/TicTacToeConsole/obj/Debug/net8.0/ref/TicTacToeConsole.dll
